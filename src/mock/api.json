@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "image": "man",
+      "totalFollowers": 25000,
+      "instagram": "@superhero"
+    },
+    {
+      "image": "channels",
+      "totalFollowers": 120000,
+      "instagram": "@chanels"
+    },
+    {
+      "image": "trend",
+      "totalFollowers": 180000,
+      "instagram": "@trend"
+    }
+  ]
+}
