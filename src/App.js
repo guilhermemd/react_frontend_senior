@@ -1,12 +1,15 @@
+import { memo } from "react";
 import "./App.css";
-import ComponentName from "./components/ComponentName";
+// import ComponentName from "./components/ComponentName";
+import CounterNumber from "./components/CounterNumbers";
 
 function App() {
   return (
     <div className="App">
-      <ComponentName />
+      {/* <ComponentName /> */}
+      <CounterNumber />
     </div>
   );
 }
 
-export default App;
+export default memo(App);
